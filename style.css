@@ -1,0 +1,209 @@
+*{
+	margin:0;
+	padding:0;
+}
+.header{
+	padding:15px 8px;
+}
+.header h2{
+	float:left;
+	width:222px;
+	height:100px;
+	color:black;
+	text-decoration:none;
+	background:#D6A2E8;
+	padding-top:10px;
+}
+.header h2:hover{
+	color:#dcdde1;
+}
+
+.Streetfood img{
+	width:568px;
+	height:auto;
+
+}
+.Streetfood h1{
+	color:#9c88ff;
+	height:200px;
+	float:left;
+	padding:40px 95px;
+	padding-top:170px;
+
+}
+.maindiv{
+	width:1340px;
+	height:220px;
+	margin:30px auto;
+
+}
+.div1{
+	width:426px;
+	height:200px;
+	float:left;
+	margin-right:20px;
+	margin-left:12px;
+
+}
+.div2{
+	width:426px;
+	height:200px;
+	float:left;
+	margin-right:20px;
+	
+	
+}
+.div3{
+	width:426px;
+	height:200px;
+	float:left;
+	
+}
+.maindiv h3{
+	text-align:center;
+	padding:5px;
+	color:#e17055;
+}
+.maindiv h3:hover{
+
+	background:#b2bec3;
+}
+.maindiv p{
+	padding:15px 10px;
+	background:#fdcb6e;
+}
+.link{
+	padding:10px 0px 0px 100px;
+}
+.link a{
+	text-decoration:none;
+	background:#dfe6e9;
+	text-align:center;
+	padding:5px 10px;
+	border-radius:50px;
+}
+.link a:hover{
+	padding:1px;
+}
+.about{
+	text-align:center;
+	padding:00px 00 100px;
+	background:#f8c291;
+}
+.about h2{
+	padding-top:50px;
+	font-family: 'Montserrat', sans-serif;
+	color:#60a3bc;
+}
+.about p{
+	padding:7px 80px;
+}
+.second{
+	width:1340px;
+	height:400px;
+	padding:8px 4px;
+	background:#c8d6e5;
+}
+h1{
+	text-align:center;
+	padding-bottom:15px;
+	color:#FDA7DF;
+	font-family: 'Kaisei HarunoUmi', serif;
+}
+.div4{
+	width:315px;
+	height:300px;
+	float:left;
+	margin-right:20px;
+	margin-left:15px;
+}
+.div5{
+	width:315px;
+	height:300px;
+	float:left;
+	margin-right:20px;
+}
+.div6{
+	width:315px;
+	height:300px;
+	float:left;
+	margin-right:20px;
+}
+.div7{
+	width:315px;
+	height:300px;
+	float:left;
+
+}
+
+.second img{
+	width:315px;
+	height:300px;
+}
+.div4 a{
+	background:none;
+	text-align:center;
+	text-decoration:none;
+}
+.div5 a{
+	background:none;
+	text-align:center;
+	text-decoration:none;
+}
+.div6 a{
+	background:none;
+	text-align:center;
+	text-decoration:none;
+}
+.div7 a{
+	background:none;
+	text-decoration:none;
+}
+.div8{
+	width:1333px;
+	height:500px;
+	text-align:center;
+	background-image:url(Photo/bck.jpg);
+	color:white;
+	padding-left:15px;
+	
+}
+.div8 h2{
+	text-decoration:underline;
+		font-family: sans-serif;
+		font-size:30px;
+		padding:40px 00px;
+}
+.div8 h2:hover{
+	color:#C4E538;
+	transition:0.5s;
+}
+.div8 form{
+	text-align:center;
+	color:white;
+	background:#ea8685;
+	width:300px;
+	padding:25px 00px;
+	margin-left:350px;
+	margin-top:80px;
+}
+.contact{
+text-align:center;
+background:#63cdda;
+width:auto;
+height:300px;
+
+}
+.link{
+	float:left;
+	margin-left:130px;
+	
+}
+.link last{
+margin-left:90px;
+float:left;
+}
+.last{
+margin-left:90px;
+}
+
